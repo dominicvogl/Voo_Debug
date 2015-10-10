@@ -1,19 +1,19 @@
 <?php
 /*
- * Plugin Name: Voo_Debug
- * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
- * Description: This is your starter template for your next WordPress plugin.
- * Author: Hugh Lashbrooke
- * Author URI: http://www.hughlashbrooke.com/
+ * Plugin Name: Voo Debug
+ * Version: 1.0.0
+ * Plugin URI: https://github.com/dominicvogl/Voo_Debug.git
+ * Description: Smarter Wordpress debugging and templating.
+ * Author: Dominic Vogl
+ * Author URI: http://www.dominicvogl.de/
  * Requires at least: 4.0
- * Tested up to: 4.0
+ * Tested up to: 4.3
  *
  * Text Domain: voo-debug
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Hugh Lashbrooke
+ * @author Dominic Vogl
  * @since 1.0.0
  */
 
